@@ -1,0 +1,4 @@
+[submodule "calorie_calculator_tools"]
+	path = calorie_calculator_tools
+	url = https://github.com/BatCave-2003/calorie_calculator_tools.git
+	branch = staging
